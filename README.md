@@ -28,3 +28,5 @@ P.S. The program works best on sniper weapons ("Marshall", "OutLaw", "Operator")
 But the program also works well on pistols (Best of all on "Ghost")
 
 Good luck in the battles!
+
+Also, to simplify the work and the ability to use global keyboard shortcuts, the project has a regular python file (bot.py).
