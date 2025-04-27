@@ -11,6 +11,7 @@ Download a file from a project called "Arduino Sketch" in the "INO" format. Then
 2.3. Then open the "Arduino Sketch" file and upload it to the board. Make sure that there are no fatal errors and that the preparation of the board is completed. 
 
 3. Then the most important thing is to download the installer and install it on your PC. 
+
 3.1. Follow the instructions of the installer and complete the installation. 
 
 4. Run the program.
