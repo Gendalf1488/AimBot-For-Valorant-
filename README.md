@@ -1,4 +1,4 @@
-# AimBot-For-Valorant-prefer-or-Game-with-the-ability-to-track-the-enemy-s-color
+# AimBot For Valorant prefer or Game with the ability to track the enemys color
 A simple LMB autoclicker without targeting the enemy.
 
 1. You need to purchase a module with "ATmega32u4" support, for example: "Arduino Pro Micro" or "Arduino Leonardo R3", and a cable for connecting the board to a computer.
