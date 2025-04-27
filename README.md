@@ -7,7 +7,9 @@ A simple LMB autoclicker without targeting the enemy.
 Download a file from a project called "Arduino Sketch" in the "INO" format. Then, do the following:
 
 2.1. Open the "Arduino IDE" program and install support through the "SparkFun AVR Boards" card manager ONLY IF YOU USE the "Arduino Pro Micro", but if you use the "Arduino Leonardo R3", it is already integrated into the program, you do not need to download anything, but if for some reason there is no manager responsible for the "Leonardo", it can be installed in the same way (here is its name "Arduino AVR Boards")
+
 2.2. Next, you need to connect the board to the computer and find the port responsible for the connected board in the program and activate it, check that the port is active. 
+
 2.3. Then open the "Arduino Sketch" file and upload it to the board. Make sure that there are no fatal errors and that the preparation of the board is completed. 
 
 3. Then the most important thing is to download the installer and install it on your PC. 
@@ -15,6 +17,7 @@ Download a file from a project called "Arduino Sketch" in the "INO" format. Then
 3.1. Follow the instructions of the installer and complete the installation. 
 
 4. Run the program.
+
 4.1. The interface is clear to anyone, you need to select the port to which the board is connected in the settings (the port that was in the "Arduino IDE" if you did not disconnect the board from the computer. 
 
 5. That's it, you have a fully working program for automatically pressing the "Fire" button when you aim at the enemy.
